@@ -1,7 +1,7 @@
 # PresidentOfGensokyo
  A Touhou choice game
 
- You can play on Github Page [here]()
+ You can play on Github Page [here](https://xiaogenintendo.github.io/PresidentOfGensokyo/)
 # How to play
 Press YES and NO to accept/deny residents' requests while keeping an eye on your stats, that's all.
 
